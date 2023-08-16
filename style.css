@@ -583,7 +583,7 @@ nav .fa{
     display: flex;
     flex-direction: column;
     justify-content: center; /* Center vertically */
-    align-items: center; /* Center horizontally */
+    align-items: left; /* Center horizontally */
     padding: 20px 0;
     padding-bottom: 0px;
     padding-top: 10px;
@@ -621,7 +621,7 @@ nav .fa{
 }
 
 .email, .address, .phone-number {
-    font-size: 13px;
+    font-size: 14px;
     margin: 10px 1px; 
     text-align: left; 
     color: #aaaaaa; 
@@ -948,6 +948,7 @@ p{
     font-weight: 400;
     display: block;
     margin-top: 0px;
+    margin-left: 20px;
 }
 .contact-info .name{
     font-size: 20px;
